@@ -341,16 +341,6 @@ section {
     align-items: center;
 }
 
-.contact-form {
-    width: 100%;
-    max-width: 500px;
-    margin-bottom: 2rem;
-}
-
-.form-group {
-    margin-bottom: 1.5rem;
-}
-
 .form-control {
     width: 100%;
     padding: 0.8rem 1rem;
